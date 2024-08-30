@@ -1,0 +1,1 @@
+previous_questions_and_answers = []
