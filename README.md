@@ -72,4 +72,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For any questions or suggestions, feel free to reach out:
 
   - Email: esragcetinkaya@gmail.com
-  - GitHub: esragcetinkaya
+  - Linkedin : [esragcetinkaya](https://www.linkedin.com/in/esra-gul-cetinkaya/?locale=en_US)
+
